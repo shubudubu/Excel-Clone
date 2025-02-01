@@ -13,7 +13,7 @@
 
 <img src="https://user-images.githubusercontent.com/57831888/102913495-d68fb680-44a4-11eb-8d2f-4e656ed66b4d.png" width="600px">
 
-# 🚀 Technical Stack:
+# Technical Stack:
 
 ## Frontend:
 - Programming Language: Javascript
